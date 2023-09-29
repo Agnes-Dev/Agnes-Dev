@@ -12,8 +12,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnes-Dev&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnes-Dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 # Linguagens
 
 <div>
